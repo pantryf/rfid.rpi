@@ -12,4 +12,4 @@ from group support module. There could be a module to view logs as well.
 On initial sync what should be done? get full state?
 How should devices perform sync, and state changed be recorded?
 
-
+![](https://ga-beacon.deno.dev/G-4NEP5LC20N:1fbE9YTHTw2pzxI6HO33Mw/github.com/pantryf/rfid.rpi)
